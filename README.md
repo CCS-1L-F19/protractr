@@ -1,18 +1,18 @@
 # protractr
-A constraint-based 2D Sketching tool - [Hosted on Github Pages](https://n-wach.github.io/protractr/src/)
+A constraint-based 2D Sketching tool - [Hosted on Github Pages](https://ccs-1l-f19.github.io/protractr/src/)
 
 Functionality is planned to match basic Solidworks sketches containing Points, Lines, and Circles.  Most of Solidworks' constraints are currently supported, with the remaining to be implemented soon.
 
 ## Examples:
-- [pyramid](https://n-wach.github.io/protractr/src/?pyramid.json)
-- [car](https://n-wach.github.io/protractr/src/?car.json)
-- [beach](https://n-wach.github.io/protractr/src/?beach.json)
-- [shield](https://n-wach.github.io/protractr/src/?shield.json)
-- [aww_man](https://n-wach.github.io/protractr/src/?aww_man.json)
+- [pyramid](https://ccs-1l-f19.github.io/protractr/src/?pyramid.json)
+- [car](https://ccs-1l-f19.github.io/protractr/src/?car.json)
+- [beach](https://ccs-1l-f19.github.io/protractr/src/?beach.json)
+- [shield](https://ccs-1l-f19.github.io/protractr/src/?shield.json)
+- [aww_man](https://ccs-1l-f19.github.io/protractr/src/?aww_man.json)
 
 ## Structure and Documenation
 
-[View the docs!](https://n-wach.github.io/protractr/docs)
+[View the docs!](https://ccs-1l-f19.github.io/protractr/docs)
 
 Protractr is composed of two main modules:
  - `gcs` is used to describe and solve geometric sketches, which are composed of figures and constraints.
@@ -41,4 +41,3 @@ To get started:
     ```
     
     Then, commit the changes under `src` and `docs`, and plus the changes to `dist/bundle.js`.  We commit `docs` and `dist/bundle.js` because they are used by the GitHub Pages hosted production version of the site.
-
