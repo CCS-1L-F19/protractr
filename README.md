@@ -1,5 +1,5 @@
 # *Outdated!*
-The latest version can be found at `[n-wach/protractr](https://github.com/n-wach/protractr)`
+The latest version can be found at [`n-wach/protractr`](https://github.com/n-wach/protractr)
 
 # protractr
 A constraint-based 2D Sketching tool - [Hosted on Github Pages](https://ccs-1l-f19.github.io/protractr/src/)
